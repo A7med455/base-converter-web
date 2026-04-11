@@ -1,0 +1,20 @@
+# Compiled Java
+*.class
+*.jar
+*.war
+
+# Maven
+target/
+pom.xml.tag
+.settings/
+.classpath
+.project
+
+# Eclipse & Tomcat
+bin/
+Servers/
+.metadata/
+
+# OS Files
+.DS_Store
+Thumbs.db
